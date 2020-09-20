@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Thanks for visiting my profile
 
-Template Name: eBusiness
-Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Languages used: HTML,CSS,BOOTSTRAP,JAVASCRIPT
